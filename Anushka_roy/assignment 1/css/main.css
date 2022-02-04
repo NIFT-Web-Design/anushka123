@@ -36,3 +36,42 @@ text-align: center;
 padding: 70px 0;
 width: 100;
 }
+.highereducation p span {
+  color: #ffa500;
+}
+
+/* comman styling of the page */
+
+.highereducation {
+  padding: 50px 0px 70px;
+  }
+  .highereducation .serveeducation {
+    max-width: 1150px;
+  margin: auto;
+  }
+  p {
+    line-height: 1.4;
+  }
+
+/* all h2 styling */
+
+h2 {
+  font-size: 44px;
+  color: #0a465b;
+  text-align: center;
+  margin-bottom: 30px;
+  padding-top: 10px;
+}
+
+div > p {
+  color: #7f969e;
+ font-size: 24px;
+ text-align: center;
+ max-width: 856;
+ margin: auto;
+ padding: 10px 0px;
+ line-height: 1.4;
+ height: 100%;
+}
+
+/* background grey */
