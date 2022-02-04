@@ -75,3 +75,46 @@ div > p {
 }
 
 /* background grey */
+
+.servicesofvariety {
+  background-color: #edeff3;
+  }
+
+/* fourblueboxstyling */
+
+div.fourboxes {
+  display: flex;
+    justify-content: center;
+    gap: 32px;
+    background-color: #EDEff3;
+padding-top: 60px;
+}
+
+.fourboxes article {
+  box-shadow: 0px 3px 8px 0px rgb(0 0 0 /20% );
+  width: 260px;
+  background-color: white;
+}
+.fourboxes article h3 {
+  background-color: #0a465b;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    height: 60px;
+    border-bottom: 5px; solid lightgrey;
+    padding: 25px 20px 25px
+}
+.fourboxes article p {
+  padding: 20px 25px;
+  color: #7f969e;
+}
+section.servicesofvariety h2 {
+  font-size: 34px;
+    color: #0a465b;
+    margin-bottom: 30px;
+    padding: 70px 40px;;
+    vertical-align: baseline;
+    text-align: center;
+}
