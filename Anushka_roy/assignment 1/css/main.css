@@ -192,8 +192,8 @@ padding: 10px 0px 30px 0px;
 }
 
 .highereducation .allgetintouch {
-  margin: 0 162px;
-  padding-left: 250px;
+  margin: 0px;
+  padding-left: 100px;
   display: inline-block;
   position: relative;
 }
@@ -254,7 +254,7 @@ padding: 10px 0px 30px 0px;
 
   #rightside .apps {
     min-width: 350px;
-  text-align: center;
+    text-align: center;
   border-top: 4px solid #dfdfe0;
   margin-top: 35px;
   padding-top: 25px;
