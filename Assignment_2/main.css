@@ -193,6 +193,7 @@ h3{
 .about-me-contents {
     font-size: 24px;
     font-family: sans-serif;
+    text-transform: uppercase;
 
     letter-spacing: 2px;
     line-height: 2rem;
